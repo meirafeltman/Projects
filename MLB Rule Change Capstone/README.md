@@ -1,4 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/31770296/README.2.md)
 # Measuring the Impact of the 2023 MLB Rule Changes
 
 DS-399 Major Capstone Project · Meira Feltman · Instructor: Sharath Kumar Jagannathan · May–July 2026
